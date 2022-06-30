@@ -4,7 +4,7 @@ Spelling Correction" by Peter Norvig.
 
 Edited by:
     - Florian Eder      00819174
-    - Moritz Enderle
+    - Moritz Enderle    00819536
 """
 import re
 from collections import Counter
@@ -19,7 +19,7 @@ def words(text):
     return re.findall(r'\w+', text.lower())
 
 
-with open('words.txt', encoding="utf-8") as f:
+with open('big.txt', encoding="utf-8") as f:
     WORDS = Counter(words(f.read()))
 
 
