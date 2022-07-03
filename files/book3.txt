@@ -44,6 +44,8 @@ I could not help laughing at the ease with which he explained his process of ded
 
 “Quite so," he answered, lighting a cigarette, and throwing himself down into an armchair. “You see, but you do not observe. The distinction is clear. For example, you have frequently seen the steps which lead up from the hall to this room."
 
+"The quick brown fox jumps over the lazy dog"
+
 “Frequently."
 
 “How often?"
@@ -211,6 +213,8 @@ Holmes laughed. “It is quite a pretty little problem," said he.
 “To Clotilde Lothman von Saxe-Meningen, second daughter of the King of Scandinavia. You may know the strict principles of her family. She is herself the very soul of delicacy. A shadow of a doubt as to my conduct would bring the matter to an end."
 
 “And Irene Adler?"
+
+"The quick brown fox jumps over the lazy dog"
 
 “Threatens to send them the photograph. And she will do it. I know that she will do it. You do not know her, but she has a soul of steel. She has the face of the most beautiful of women, and the mind of the most resolute of men. Rather than I should marry another woman, there are no lengths to which she would not go—none."
 
