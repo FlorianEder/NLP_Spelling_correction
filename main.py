@@ -19,7 +19,7 @@ def words(text):
     return re.findall(r'\w+', text.lower())
 
 
-with open('big.txt', encoding="utf-8") as f:
+with open('files/book3.txt', encoding="utf-8") as f:
     WORDS = Counter(words(f.read()))
 
 
